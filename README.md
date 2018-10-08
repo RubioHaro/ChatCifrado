@@ -1,2 +1,2 @@
-# ChatConDES
-Envió y reepcionde cifrados
+# Chat Cifrado
+Servicio de mensajera en red con uso de cifrado DES para los mensajes.
